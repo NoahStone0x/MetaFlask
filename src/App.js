@@ -132,7 +132,11 @@ class App extends Component {
           <div>
             <div className="message" draggable="true">
               <p>Available on Mainnet and desktop MetaMask version only</p>
-              <a href="https://github.com/NoahStone0x/MetaFlask">
+              <a
+                href="https://github.com/NoahStone0x/MetaFlask"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Code on GitHub
               </a>
             </div>
