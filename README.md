@@ -1,2 +1,3 @@
 # MetaFlask
-Created with CodeSandbox
+
+Live version: [MetaFlask](https://metaflask.netlify.app)
