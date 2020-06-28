@@ -56,19 +56,6 @@ body {
   color: rgb(85, 85, 85);
 }
 
-.connect-btn {
-  width: 200px;
-  height: 200px;
-  border-radius: 5pt;
-  cursor: pointer;
-  font-family: "Montserrat", sans-serif;
-  padding: 50px;
-  background-image: url("images/metamask.svg");
-  background-repeat: no-repeat;
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-}
-
 .tokens-list {
   padding: 10px;
   margin: 0;
