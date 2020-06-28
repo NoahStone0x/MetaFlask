@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  background: #f1f1f1;
+}
+
+.App {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  background-color: #222222;
+  height: 50px;
+}
+
+.logo {
+  margin: 0 20px;
+}
+
+.logo img {
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.header h3 {
+  font-weight: bold;
+  display: inline-block;
+  color: rgb(251, 206, 58);
+  margin: 0;
+  vertical-align: middle;
+}
+
+.header p {
+  margin: 20px;
+  padding: 5px;
+  color: white;
+  font-size: 12px;
+  border: 1px solid white;
+  border-radius: 5pt;
+  margin-left: auto;
+}
+
+.message {
+  border: 1px solid rgb(170, 170, 170);
+  border-radius: 5pt;
+  margin: 10px 10px 15px 10px;
+  background-color: rgb(250, 250, 250);
+}
+
+.message p {
+  margin: 10px;
+  font-weight: bold;
+  color: rgb(85, 85, 85);
+}
+
+.connect-btn {
+  width: 200px;
+  height: 200px;
+  border-radius: 5pt;
+  cursor: pointer;
+  font-family: "Montserrat", sans-serif;
+  padding: 50px;
+  background-image: url("images/metamask.svg");
+  background-repeat: no-repeat;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+}
+
+.tokens-list {
+  padding: 10px;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+}
+
+.token {
+  cursor: pointer;
+  background: #fff;
+  border: 1px solid rgb(199, 195, 195);
+  border-radius: 5pt;
+  padding: 20px;
+  margin: 1%;
+}
+
+.token p {
+  margin: 10px 0 0 0;
+  font-weight: bold;
+}
+
+.token:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
