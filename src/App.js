@@ -33,7 +33,7 @@ class App extends Component {
     if (window.ethereum) {
       window.ethereum.publicConfigStore._state.isUnlocked
         ? this.loadweb3()
-        : null;
+        : console.log("Connect with MetaMask");
     }
   }
 
