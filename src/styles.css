@@ -56,6 +56,13 @@ body {
   color: rgb(85, 85, 85);
 }
 
+.message a {
+  display: block;
+  margin: 10px;
+  font-weight: bold;
+  color: rgb(85, 85, 85);
+}
+
 .tokens-list {
   padding: 10px;
   margin: 0;

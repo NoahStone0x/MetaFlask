@@ -132,6 +132,9 @@ class App extends Component {
           <div>
             <div className="message" draggable="true">
               <p>Available on Mainnet and desktop MetaMask version only</p>
+              <a href="https://github.com/NoahStone0x/MetaFlask">
+                Code on GitHub
+              </a>
             </div>
             <MetaMaskButton.Outline size="large" onClick={this.loadweb3}>
               Connect with MetaMask
