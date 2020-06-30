@@ -269,14 +269,6 @@ export const tokens = {
     image:
       "https://token-icons.s3.amazonaws.com/0x6fb0855c404e09c47c3fbca25f08d4e41f9f062f.png"
   },
-  sUSD: {
-    name: "Synth sUSD",
-    address: "0x57ab1e02fee23774580c119740129eac7081e9d3",
-    symbol: "sUSD",
-    decimals: 18,
-    image:
-      "https://token-icons.s3.amazonaws.com/0x57ab1e02fee23774580c119740129eac7081e9d3.png"
-  },
   sETH: {
     name: "Synth sETH",
     address: "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",

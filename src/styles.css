@@ -14,14 +14,11 @@ body {
   margin-bottom: 10px;
   background-color: #222222;
   height: 50px;
-}
-
-.logo {
-  margin: 0 20px;
+  padding: 0 13px;
 }
 
 .logo img {
-  margin-right: 5px;
+  margin-right: 8px;
   vertical-align: middle;
 }
 
@@ -33,34 +30,18 @@ body {
   vertical-align: middle;
 }
 
-.header p {
-  margin: 20px;
-  padding: 5px;
-  color: white;
-  font-size: 12px;
-  border: 1px solid white;
-  border-radius: 5pt;
-  margin-left: auto;
+.search-div {
+  padding: 0 10px;
 }
 
-.message {
-  border: 1px solid rgb(170, 170, 170);
-  border-radius: 5pt;
-  margin: 10px 10px 15px 10px;
-  background-color: rgb(250, 250, 250);
-}
-
-.message p {
-  margin: 10px;
-  font-weight: bold;
-  color: rgb(85, 85, 85);
-}
-
-.message a {
-  display: block;
-  margin: 10px;
-  font-weight: bold;
-  color: rgb(85, 85, 85);
+.search-input {
+  width: 100%;
+  font-size: 1.5em;
+  border-radius: 5px;
+  box-sizing: border-box;
+  border: 1px solid rgb(199, 195, 195);
+  padding: 5px 8px;
+  outline: none;
 }
 
 .tokens-list {
