@@ -293,6 +293,38 @@ export const tokens = {
     image:
       "https://token-icons.s3.amazonaws.com/0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6.png"
   },
+  sEOS: {
+    name: "Synth sEOS",
+    address: "0x88c8cf3a212c0369698d13fe98fcb76620389841",
+    symbol: "sEOS",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0x88c8cf3a212c0369698d13fe98fcb76620389841.png"
+  },
+  sADA: {
+    name: "Synth sADA",
+    address: "0xe36e2d3c7c34281fa3bc737950a68571736880a1",
+    symbol: "sADA",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0xe36e2d3c7c34281fa3bc737950a68571736880a1.png"
+  },
+  sBNB: {
+    name: "Synth sBNB",
+    address: "0x617aecb6137b5108d1e7d4918e3725c8cebdb848",
+    symbol: "sBNB",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0x617aecb6137b5108d1e7d4918e3725c8cebdb848.png"
+  },
+  sXTZ: {
+    name: "Synth sXTZ",
+    address: "0x2e59005c5c0f0a4d77cca82653d48b46322ee5cd",
+    symbol: "sXTZ",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0x2e59005c5c0f0a4d77cca82653d48b46322ee5cd.png"
+  },
   sDEFI: {
     name: "Synth DeFi",
     address: "0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b",
@@ -300,6 +332,14 @@ export const tokens = {
     decimals: 18,
     image:
       "https://token-icons.s3.amazonaws.com/0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b.png"
+  },
+  sCEX: {
+    name: "Synth sCEX",
+    address: "0xeabacd844a196d7faf3ce596edebf9900341b420",
+    symbol: "sCEX",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0xeabacd844a196d7faf3ce596edebf9900341b420.png"
   },
   sXAU: {
     name: "Synth sXAU",
@@ -325,6 +365,38 @@ export const tokens = {
     image:
       "https://token-icons.s3.amazonaws.com/0xf48e200eaf9906362bb1442fca31e0835773b8b4.png"
   },
+  sJPY: {
+    name: "Synth sJPY",
+    address: "0xf6b1c627e95bfc3c1b4c9b825a032ff0fbf3e07d",
+    symbol: "sJPY",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0xf6b1c627e95bfc3c1b4c9b825a032ff0fbf3e07d.png"
+  },
+  sEUR: {
+    name: "Synth sEUR",
+    address: "0xd71ecff9342a5ced620049e616c5035f1db98620",
+    symbol: "sEUR",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0xf6b1c627e95bfc3c1b4c9b825a032ff0fbf3e07d.png"
+  },
+  sGBP: {
+    name: "Synth sGBP",
+    address: "0x97fe22e7341a0cd8db6f6c021a24dc8f4dad855f",
+    symbol: "sGBP",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0x97fe22e7341a0cd8db6f6c021a24dc8f4dad855f.png"
+  },
+  sCHF: {
+    name: "Synth sCHF",
+    address: "0x0f83287ff768d1c1e17a42f44d644d7f22e8ee1d",
+    symbol: "sCHF",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0x0f83287ff768d1c1e17a42f44d644d7f22e8ee1d.png"
+  },
   iETH: {
     name: "Synth iETH",
     address: "0xa9859874e1743a32409f75bb11549892138bba1e",
@@ -332,6 +404,14 @@ export const tokens = {
     decimals: 18,
     image:
       "https://token-icons.s3.amazonaws.com/0xa9859874e1743a32409f75bb11549892138bba1e.png"
+  },
+  iBTC: {
+    name: "Synth iBTC",
+    address: "0xd6014ea05bde904448b743833ddf07c3c7837481",
+    symbol: "iBTC",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0xd6014ea05bde904448b743833ddf07c3c7837481.png"
   },
   sCrv: {
     name: "Curve sUSD Pool",
