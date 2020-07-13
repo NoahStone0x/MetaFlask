@@ -29,6 +29,13 @@ export const tokens = {
     image:
       "https://token-icons.s3.amazonaws.com/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd.png"
   },
+  BZXR: {
+    name: "bZx Protocol Token",
+    address: "0x56d811088235f11c8920698a204a5010a788f4b3",
+    symbol: "BZXR",
+    decimals: 18,
+    image: "https://assets.coingecko.com/coins/images/11811/large/bzrx.png"
+  },
   UMA: {
     name: "UMA",
     address: "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
