@@ -14,6 +14,14 @@ export const tokens = {
     image:
       "https://s3.amazonaws.com/token-icons/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png"
   },
+  GNO: {
+    name: "Gnosis",
+    address: "0x6810e776880c02933d47db1b9fc05908e5386b96",
+    symbol: "GNO",
+    decimals: 18,
+    image:
+      "https://s3.amazonaws.com/token-icons/0x6810e776880c02933d47db1b9fc05908e5386b96.png"
+  },
   BAL: {
     name: "Balancer",
     address: "0xba100000625a3754423978a60c9317c58a424e3d",
@@ -34,7 +42,8 @@ export const tokens = {
     address: "0x56d811088235f11c8920698a204a5010a788f4b3",
     symbol: "BZXR",
     decimals: 18,
-    image: "https://assets.coingecko.com/coins/images/11811/large/bzrx.png"
+    image:
+      "https://token-icons.s3.amazonaws.com/0x56d811088235f11c8920698a204a5010a788f4b3.png"
   },
   UMA: {
     name: "UMA",
@@ -237,7 +246,7 @@ export const tokens = {
       "https://token-icons.s3.amazonaws.com/0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00.png"
   },
   aSUSD: {
-    name: "Aave Interest bearing BAT",
+    name: "Aave Interest bearing SUSD",
     address: "0x625ae63000f46200499120b906716420bd059240",
     symbol: "aSUSD",
     decimals: 18,
