@@ -53,6 +53,38 @@ export const tokens = {
     image:
       "https://token-icons.s3.amazonaws.com/0x04fa0d235c4abf4bcf4787af4cf447de572ef828.png"
   },
+  BAND: {
+    name: "Band",
+    address: "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+    symbol: "BAND",
+    decimals: 18,
+    image:
+      "https://token-list-api.defipulse.com/tokens/icons/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55.png"
+  },
+  UBT: {
+    name: "UniBright",
+    address: "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+    symbol: "UBT",
+    decimals: 8,
+    image:
+      "https://token-list-api.defipulse.com/tokens/icons/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e.png"
+  },
+  PNT: {
+    name: "pNetwork Token",
+    address: "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+    symbol: "PNT",
+    decimals: 18,
+    image:
+      "https://token-list-api.defipulse.com/tokens/icons/0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD.png"
+  },
+  RPL: {
+    name: "Rocket Pool",
+    address: "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+    symbol: "RPL",
+    decimals: 18,
+    image:
+      "https://token-list-api.defipulse.com/tokens/icons/0xB4EFd85c19999D84251304bDA99E90B92300Bd93.png"
+  },
   AMPL: {
     name: "Ampleforth",
     address: "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
@@ -68,6 +100,77 @@ export const tokens = {
     decimals: 18,
     image:
       "https://s3.amazonaws.com/token-icons/0xec67005c4e498ec7f55e092bd1d35cbc47c91892.png"
+  },
+  mUSD: {
+    name: "mStable USD",
+    address: "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+    symbol: "mUSD",
+    decimals: 18,
+    image:
+      "https://token-list-api.defipulse.com/tokens/icons/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5.png"
+  },
+  NMR: {
+    name: "Numeraire",
+    address: "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+    symbol: "NMR",
+    decimals: 18,
+    image:
+      "https://token-list-api.defipulse.com/tokens/icons/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671.png"
+  },
+  RSV: {
+    name: "Reserve",
+    address: "0x1c5857e110cd8411054660f60b5de6a6958cfae2",
+    symbol: "RSV",
+    decimals: 18,
+    image:
+      "https://token-list-api.defipulse.com/tokens/icons/0x8762db106b2c2a0bccb3a80d1ed41273552616e8.png"
+  },
+  RSR: {
+    name: "Reserve Rights",
+    address: "0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+    symbol: "RSR",
+    decimals: 18,
+    image: "https://files.kyberswap.com/DesignAssets/tokens/rsr.svg"
+  },
+  RDN: {
+    name: "Raiden Network Token",
+    address: "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
+    symbol: "RDN",
+    decimals: 18,
+    image:
+      "https://token-list-api.defipulse.com/tokens/icons/0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6.png"
+  },
+  TKN: {
+    name: "Monolith",
+    address: "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a",
+    symbol: "TKN",
+    decimals: 8,
+    image:
+      "https://token-list-api.defipulse.com/tokens/icons/0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a.png"
+  },
+  CHAI: {
+    name: "Chai",
+    address: "0x06af07097c9eeb7fd685c692751d5c66db49c215",
+    symbol: "CHAI",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0x06af07097c9eeb7fd685c692751d5c66db49c215.png"
+  },
+  rDAI: {
+    name: "Redeemable DAI",
+    address: "0x261b45d85ccfeabb11f022eba346ee8d1cd488c0",
+    symbol: "rDAI",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0x261b45d85ccfeabb11f022eba346ee8d1cd488c0.png"
+  },
+  HUE: {
+    name: "Hue",
+    address: "0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5",
+    symbol: "HUE",
+    decimals: 4,
+    image:
+      "https://token-icons.s3.amazonaws.com/0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5.png"
   },
   renBTC: {
     name: "RenBTC",
@@ -100,30 +203,6 @@ export const tokens = {
     decimals: 18,
     image:
       "https://token-icons.s3.amazonaws.com/0x5228a22e72ccc52d415ecfd199f99d0665e7733b.png"
-  },
-  CHAI: {
-    name: "Chai",
-    address: "0x06af07097c9eeb7fd685c692751d5c66db49c215",
-    symbol: "CHAI",
-    decimals: 18,
-    image:
-      "https://token-icons.s3.amazonaws.com/0x06af07097c9eeb7fd685c692751d5c66db49c215.png"
-  },
-  rDAI: {
-    name: "Redeemable DAI",
-    address: "0x261b45d85ccfeabb11f022eba346ee8d1cd488c0",
-    symbol: "rDAI",
-    decimals: 18,
-    image:
-      "https://token-icons.s3.amazonaws.com/0x261b45d85ccfeabb11f022eba346ee8d1cd488c0.png"
-  },
-  HUE: {
-    name: "Hue",
-    address: "0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5",
-    symbol: "HUE",
-    decimals: 4,
-    image:
-      "https://token-icons.s3.amazonaws.com/0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5.png"
   },
   cUSDT: {
     name: "Compound USDT",
