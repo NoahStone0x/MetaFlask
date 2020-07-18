@@ -101,6 +101,14 @@ export const tokens = {
     image:
       "https://s3.amazonaws.com/token-icons/0xec67005c4e498ec7f55e092bd1d35cbc47c91892.png"
   },
+    MTA: {
+    name: "Meta",
+    address: "0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
+    symbol: "MTA",
+    decimals: 18,
+    image:
+      "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2/logo.png"
+  },
   mUSD: {
     name: "mStable USD",
     address: "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
