@@ -45,6 +45,14 @@ export const tokens = {
     image:
       "https://token-icons.s3.amazonaws.com/0x56d811088235f11c8920698a204a5010a788f4b3.png"
   },
+  YFI: {
+    name: "Yearn.finance",
+    address: "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+    symbol: "YFI",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png"
+  },
   UMA: {
     name: "UMA",
     address: "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
@@ -85,6 +93,22 @@ export const tokens = {
     image:
       "https://token-list-api.defipulse.com/tokens/icons/0xB4EFd85c19999D84251304bDA99E90B92300Bd93.png"
   },
+  MTA: {
+    name: "Meta",
+    address: "0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
+    symbol: "MTA",
+    decimals: 18,
+    image:
+      "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2/logo.png"
+  },
+  mUSD: {
+    name: "mStable USD",
+    address: "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+    symbol: "mUSD",
+    decimals: 18,
+    image:
+      "https://token-list-api.defipulse.com/tokens/icons/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5.png"
+  },
   AMPL: {
     name: "Ampleforth",
     address: "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
@@ -100,22 +124,6 @@ export const tokens = {
     decimals: 18,
     image:
       "https://s3.amazonaws.com/token-icons/0xec67005c4e498ec7f55e092bd1d35cbc47c91892.png"
-  },
-    MTA: {
-    name: "Meta",
-    address: "0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
-    symbol: "MTA",
-    decimals: 18,
-    image:
-      "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2/logo.png"
-  },
-  mUSD: {
-    name: "mStable USD",
-    address: "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
-    symbol: "mUSD",
-    decimals: 18,
-    image:
-      "https://token-list-api.defipulse.com/tokens/icons/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5.png"
   },
   NMR: {
     name: "Numeraire",
