@@ -53,6 +53,14 @@ export const tokens = {
     image:
       "https://token-icons.s3.amazonaws.com/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png"
   },
+    YAM: {
+    name: "YAM",
+    address: "0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16",
+    symbol: "YAM",
+    decimals: 18,
+    image:
+      "https://assets.coingecko.com/coins/images/12106/small/YAM.png?1597175648"
+  },
   UMA: {
     name: "UMA",
     address: "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
