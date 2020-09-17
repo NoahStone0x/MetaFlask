@@ -1,4 +1,12 @@
 export const tokens = {
+  UNI: {
+    name: "Uniswap",
+    address: "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    symbol: "UNI",
+    decimals: 18,
+    image:
+      "https://token-icons.s3.amazonaws.com/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png"
+  },
   COMP: {
     name: "Compound",
     address: "0xc00e94cb662c3520282e6f5717214004a7f26888",
@@ -53,7 +61,7 @@ export const tokens = {
     image:
       "https://token-icons.s3.amazonaws.com/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png"
   },
-    YAM: {
+  YAM: {
     name: "YAM",
     address: "0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16",
     symbol: "YAM",
