@@ -93,6 +93,13 @@ export const tokens = {
     image:
       "https://token-list-api.defipulse.com/tokens/icons/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e.png"
   },
+  HEGIC: {
+    name: "Hegic",
+    address: "0x584bc13c7d411c00c01a62e8019472de68768430",
+    symbol: "HEGIC",
+    decimals: 18,
+    image: "https://assets.coingecko.com/coins/images/12454/large/Hegic.png"
+  },
   PNT: {
     name: "pNetwork Token",
     address: "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
