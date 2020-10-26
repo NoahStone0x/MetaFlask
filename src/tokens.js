@@ -211,6 +211,21 @@ export const tokens = {
     image:
       "https://token-icons.s3.amazonaws.com/0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5.png"
   },
+  RARE: {
+    name: "Rare",
+    address: "0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D",
+    symbol: "RARE",
+    decimals: 4,
+    image: "https://assets.coingecko.com/coins/images/12868/small/rare_logo.png"
+  },
+  AUDIO: {
+    name: "Audius",
+    address: "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
+    symbol: "AUDIO",
+    decimals: 18,
+    image:
+      "https://assets.coingecko.com/coins/images/12913/small/AudiusCoinLogo_2x.png"
+  },
   renBTC: {
     name: "RenBTC",
     address: "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
