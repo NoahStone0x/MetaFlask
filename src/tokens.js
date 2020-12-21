@@ -93,6 +93,14 @@ export const tokens = {
     image:
       "https://token-list-api.defipulse.com/tokens/icons/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e.png"
   },
+  GRT: {
+    name: "Graph Token",
+    address: "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    symbol: "GRT",
+    decimals: 18,
+    image:
+      "https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566"
+  },
   HEGIC: {
     name: "Hegic",
     address: "0x584bc13c7d411c00c01a62e8019472de68768430",
