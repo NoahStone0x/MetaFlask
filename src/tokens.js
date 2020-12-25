@@ -45,6 +45,13 @@ export const tokens = {
     decimals: 18,
     image: "https://assets.coingecko.com/coins/images/11683/small/Balancer.png"
   },
+  ONEINCH: {
+    name: "1INCH Token",
+    address: "0x111111111117dc0aa78b770fa6a738034120c302",
+    symbol: "1INCH",
+    decimals: 18,
+    image: "https://assets.coingecko.com/coins/images/13469/large/1inch-token.png?1608803028"
+  },
   LRC: {
     name: "LoopringCoin V2",
     address: "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
